@@ -1,0 +1,22 @@
+{
+  "name": "bloqueante",
+  "version": "1.0.0",
+  "description": "Prueba del modo bloqueante en Node.js",
+  "main": "bloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenGtz0/Bloqueante.git"
+  },
+  "keywords": [
+    "bloqueante"
+  ],
+  "author": "Ruben Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenGtz0/Bloqueante/issues"
+  },
+  "homepage": "https://github.com/RubenGtz0/Bloqueante#readme"
+}
